@@ -1,7 +1,7 @@
 # webpack-npm-template
 A template repository to start working with webpack.
 
-Run `npm install` and `npm update` befor starting your project.
+Run `npm install` and `npm update` before starting your project.
 
 Contains the following dev dependencies: 
 - "@eslint/js": "^9.5.0"
